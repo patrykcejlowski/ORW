@@ -1,0 +1,1 @@
+scrapy crawl craig -o items.csv -t csv
